@@ -1,3 +1,3 @@
 ## Dashboard Preview
-![Retail Sales Dashboard](DASH.png)
+![Retail Sales Dashboard](DASHBOARD.png)
 
